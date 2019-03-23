@@ -8,7 +8,7 @@ menu:
       weight: 901
 ---
 
-The Data Modeling Workshop is deployed as a standard AssetHub asset:
+Just-a-clusta is deployed as a standard AssetHub asset:
 
 ## Startup Script
 This Asset leverages simple-startup. To start the entire asset run ./startup all for other options run ./startup
