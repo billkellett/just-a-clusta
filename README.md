@@ -3,23 +3,20 @@ This is a plain-vanilla DSE cluster.
 
 ### Motivation
 
-This asset enables DataStax SEs and others to quickly spin up a DSE cluster for ad hoc demo or testing purposes.
+SEs and others sometimes need to spin up a cluster very quickly in order to do ad hoc testing or demo work.  This asset meets those needs.
 
 ### What is included?
 
-A basic DSE cluster with all workloads, Studio, and OpsCenter.
+We include the following DSE components that are installed by default:
+
+* All DSE workloads: Core, Search, Analytics, Graph
+* DSE Studio
+* DSE Opscenter
 
 ### Business Take Aways
 
-DataStax pre-sales people are responsive to ad hoc requests.  
+DataStax employees are responsive to ad hoc requests.  
 
 ### Technical Take Aways
 
-It is very easy to create a test cluster to demonstrate the value of DSE, including:
-
-* Continuous *Availability*
-* *Real-time* high-speed high-volume transaction processing
-* Highly *distributed* applications
-* Unlimited *scalability*
-
-In addition, DSE's *contextual* capabilities support the many different application stakeholders in a modern enterprise, including Customers, Customer Service Representatives, Business Analysts, Data Scientists, etc.
+It is very easy to create a test system for general needs.
