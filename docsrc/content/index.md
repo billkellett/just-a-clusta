@@ -1,27 +1,28 @@
 ---
-title: Asset Name
+title: Data Modeling Workshop 
 type: index
 weight: 10
 ---
 
-Short description - look at existing curated assets on assethub.datastax.com for examples
+# just-a-clusta
+This is a plain-vanilla DSE cluster.
 
 ### Motivation
 
-Motivation
+SEs and others sometimes need to spin up a cluster very quickly in order to do ad hoc testing or demo work.  This asset meets those needs.
 
 ### What is included?
 
-This field asset (demo) includes the following:
+We include the following DSE components that are installed by default:
 
-* list
-* elements
-* here
+* All DSE workloads: Core, Search, Analytics, Graph
+* DSE Studio
+* DSE Opscenter
 
 ### Business Take Aways
 
-Populate
+DataStax employees are responsive to ad hoc requests.  
 
 ### Technical Take Aways
 
-Populate
+It is very easy to create a test system for general needs.
